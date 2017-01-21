@@ -9,11 +9,11 @@ A self-learning project that create a simple Tic Tac Toe game in command-line wi
  * game will be restarted if you click '0' + Enter
  
 # Instruction:
- ## option 1:
+## option 1:
   * open the python console by typing `python` in the console.
   * Copy and paste the code in ttt.py to the console.
   * type `start()` to start the game
 
- ## option 2:
+## option 2:
   * open the console and type `python ttt.py`
  
